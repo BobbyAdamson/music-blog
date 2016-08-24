@@ -1,3 +1,4 @@
+# Our Music Blog
 Gradle - Spring 4 MVC Hello World
 ===============================
 Template for Spring 4 MVC + JSP view + Annotation configuration, using Gradle build tool.
@@ -24,4 +25,3 @@ Access ```http://localhost:8080/spring4```
 
 ###4. Project Demo
 Please refer to this article [Gradle - Spring 4 MVC Hello World + Annotation ](http://www.mkyong.com/spring-mvc/gradle-spring-4-mvc-hello-world-example-annotation/)
-
