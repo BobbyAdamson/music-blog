@@ -1,5 +1,4 @@
-# Our Music Blog
-Gradle - Spring 4 MVC Hello World
+# Our Music Blog - Another test
 ===============================
 Template for Spring 4 MVC + JSP view + Annotation configuration, using Gradle build tool.
 
